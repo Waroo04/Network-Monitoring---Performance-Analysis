@@ -1,0 +1,5 @@
+psutil>=5.9.0
+scapy>=2.5.0
+matplotlib>=3.7.0
+rich>=13.0.0
+flask>=3.0.0
